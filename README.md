@@ -12,8 +12,9 @@
 
 ## 💻 Project
 
-A Pokémon application allows you to search, check evolutions and, compare status.
-This project is in constant evolution and, the main objective is to learn and improve my skills in .NET Core and React.
+
+An alternative version of Netflix adapted to my name and with videos related to CS: GO.
+The project was created using ReactJS.
 
 >
 
@@ -27,9 +28,10 @@ This project is in constant evolution and, the main objective is to learn and im
 
 This project was developed with the following technologies:
 
-- .NET Core
+- JavaScript
 - React
-- PostgreSQL
+- CSS
+-HTML
 
 >
 
