@@ -1,12 +1,7 @@
 <div align="center">
   <img alt="Title image" src="https://hugo-flix.vercel.app/static/media/Logo.8eb58ad4.png">
   <img alt="Title image" src="https://logodownload.org/wp-content/uploads/2014/09/counter-strike-global-offensive-cs-go-logo-3.png">
-  <div align="center">
-    <img alt="Made by Igor Martins" src="https://img.shields.io/badge/madeby-figormartins-blue">
-    <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-red">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/figormartins/pokemon">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/figormartins/pokemon?style=social">
-  </div>
+  
 </div>
 
 >
@@ -32,7 +27,7 @@ This project was developed with the following technologies:
 - JavaScript
 - React
 - CSS
--HTML
+- HTML
 
 >
 
