@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Title image" src=".readme/title.png">
+  <img alt="Title image" src="https://logodownload.org/wp-content/uploads/2014/09/counter-strike-global-offensive-cs-go-logo.png">
   <div align="center">
     <img alt="Made by Igor Martins" src="https://img.shields.io/badge/madeby-figormartins-blue">
     <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-red">
