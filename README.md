@@ -20,7 +20,7 @@ The project was created using ReactJS.
 >
 
 <div align="center">
-  <img alt="Title image" src="">
+  <img alt="Title image" src="https://ibb.co/88mDGnf">
 </div>
 
 >
