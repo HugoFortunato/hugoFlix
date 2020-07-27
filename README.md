@@ -21,6 +21,7 @@ The project was created using ReactJS.
 
 <div align="center">
   <img alt="Title image" src="https://i.ibb.co/C0w54pY/01.jpg">
+  <img alt="Title image" src="https://i.ibb.co/YN9sPJt/02.jpg">
 </div>
 
 >
