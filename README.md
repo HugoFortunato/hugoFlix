@@ -42,5 +42,5 @@ You are totally allowed to contribute with this project. To do that, fork this r
 > >
 
 <h4 align="center">
-    Made by <a href="https://www.linkedin.com/in/figortmartins/" style="color: #00a0df" target="_blank">Igor Martins</a>
+    Made by <a href="https://www.linkedin.com/in/hugofor/" style="color: #00a0df" target="_blank">Hugo Fortunato</a>
 </h4>
