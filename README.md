@@ -1,8 +1,3 @@
-<div align="center">
-  <img alt="Title image" src="https://hugo-flix.vercel.app/static/media/Logo.8eb58ad4.png">
-  <img alt="Title image" src="https://logodownload.org/wp-content/uploads/2014/09/counter-strike-global-offensive-cs-go-logo-3.png">
-  
-</div>
 
 >
 
@@ -15,7 +10,7 @@ The project was created using ReactJS.
 >
 
 <div align="center">
-  <img alt="Title image" src=".readme/presentation.gif">
+  <img alt="Title image" src="">
 </div>
 
 >
