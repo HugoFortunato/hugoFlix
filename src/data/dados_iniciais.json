@@ -66,6 +66,14 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+          "titulo": "Backend x Frontend",
+          "url": "https://www.youtube.com/watch?v=WzZ1CSuFpb0&t=2s"
+        },
+        {
+          "titulo": "Como ser um programador backend de sucesso!",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI"
         }
       ]
     },
@@ -92,6 +100,18 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "O que é ciência de dados",
+          "url": "https://www.youtube.com/watch?v=ykSILAQQu6o"
+        },
+        {
+          "titulo": "Como se Tornar um Cientista de Dados de Sucesso",
+          "url": "https://www.youtube.com/watch?v=-vawLSNdo-A"
+        },
+        {
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
         }
       ]
     },
@@ -114,6 +134,18 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "Velozes & Furiosos 9 – Trailer Oficial (Universal Pictures) HD",
+          "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
+        },
+        {
+          "titulo": "Batman vs Superman: A Origem da Justiça - Trailer da Comic-Con (leg) [HD]",
+          "url": "https://www.youtube.com/watch?v=IHDgrNxO-5I"
+        },
+        {
+          "titulo": "Dark – Temporada 3 | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
         }
       ]
     },
@@ -142,9 +174,18 @@
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "THE LAST OF US Part II -",
+          "url": "https://www.youtube.com/watch?v=HBgPd_WBT2Y"
+        },
+        {
+          "titulo": "CS GO",
+          "url": "https://www.youtube.com/watch?v=0IF7-WD3TPY"
+        },
+        {
+          "titulo": "Shadow Of The Tomb Raider - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
         }
+
       ]
     },
     {
@@ -174,7 +215,17 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        },
+        {
+          "titulo": "Aprendendo JavaScript",
+          "url": "https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&t=0s"
+        },
+        {
+          "titulo": "Virando um programador",
+          "url": "https://www.youtube.com/watch?v=wvPAODEdQNI"
         }
+
+
       ]
     }
   ]

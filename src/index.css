@@ -19,8 +19,23 @@ body {
   margin: 0;
   padding: 0;
   background-color: #141414;
+  color: white;
 }
 
 a {
   color: inherit;
 } 
+
+.video {
+  color: white;
+}
+
+.page {
+  color: white;
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
