@@ -7,6 +7,7 @@ import CadastroVideo from './pages/cadastro/video'
 import CadastroCategoria from './pages/cadastro/Categoria'
 
 
+
 const page = () => (<div className="page">Página 404</div>)
 
 ReactDOM.render(

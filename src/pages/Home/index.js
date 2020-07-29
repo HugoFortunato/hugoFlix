@@ -6,6 +6,7 @@ import Carousel from '../../components/Carousel'
 import Footer from '../../components/Footer'
 
 
+
 function Home() {
   return (
     <div>
