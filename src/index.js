@@ -8,7 +8,7 @@ import CadastroCategoria from './pages/cadastro/Categoria'
 
 
 
-const page = () => (<div className="page">Página 404</div>)
+const page = () => (<div className="page"></div>)
 
 ReactDOM.render(
   <BrowserRouter>

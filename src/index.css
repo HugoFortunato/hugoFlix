@@ -32,6 +32,10 @@ a {
 
 .page {
   color: white;
+  background: url(./assets/img/erru2.png) no-repeat;
+  height: 500px;
+  width: 500px;
+  margin-left: 35%;
 }
 
 #root {
