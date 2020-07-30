@@ -1,14 +1,19 @@
 import React from 'react'
 
 function FormField({ label, type, name, value, onChange }) {
-    return(
+    return (
         <div>
             <label>
-                {label}:<input type={type} label=""value={value} name={name}  onChange={onChange}
-            />
+                {label}:
+                <input
+                    type={type}
+                    label=""
+                    value={value}
+                    name={name}
+                    onChange={onChange}
+                />
             </label>
         </div>
-    )   
+    )
 }
-
 export default FormField

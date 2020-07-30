@@ -1,7 +1,7 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 const Button = styled.button`
-color: var(--white);
+    color: var(--white);
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
@@ -13,11 +13,11 @@ color: var(--white);
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
-    transition: opacity .3s;
+    transition: opacity 0.3s;
     &:hover,
     &:focus {
-    opacity: .5;
-  }
+        opacity: 0.5;
+    }
 `
 
-export default Button 
+export default Button
