@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="Title image" src="https://hugo-flix.vercel.app/static/media/Logo.8eb58ad4.png">
- <img alt="Title image" src="https://logodownload.org/wp-content/uploads/2014/09/counter-strike-global-offensive-cs-go-logo-3.png">
+  <img alt="Title image" src="https://hugo-flix.vercel.app/static/media/Logo.8eb58ad4.png" width="100" height="50">
+ <img alt="Title image" src="https://logodownload.org/wp-content/uploads/2014/09/counter-strike-global-offensive-cs-go-logo-3.png" width="300" height="200">
   
   <div align="center">
     <img alt="Made by Igor Martins" src="https://img.shields.io/badge/madeby-figormartins-blue">
